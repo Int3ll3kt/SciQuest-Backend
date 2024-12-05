@@ -12,6 +12,7 @@ logs/
 
 # Build files
 dist/
+/dist/
 build/
 out/
 
