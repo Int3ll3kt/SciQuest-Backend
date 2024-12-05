@@ -6,6 +6,5 @@ async function bootstrap() {
   await app.listen(process.env.PORT ?? 3005);
 
   console.log(process.env.NODE_ENV);
-  // console.log(process.env.NODE_ENV);
 }
 bootstrap();
